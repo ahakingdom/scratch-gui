@@ -22,7 +22,7 @@ npm-*
 /src/generated
 
 # Downloaded during "npm install"
-/static/microbit
 
 # for act
 .secrets
+/.idea/
